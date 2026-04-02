@@ -50,6 +50,8 @@ On the command prompt type:
 ```
 jupyter lab
 ```
+Note- this command may not work in the power shell. If  this happens go to the cmd terminal navigate to the folder housing jupyter_napari, run the activate scripts cmd, then change directory to jupyter_napari and run the jupyter lap prompt again.
+
 If all goes well, your browser will open Jupyter and have a "Launcher" tab.  Click on "Python 3 (ipykernel).
 ```
 %gui qt6
