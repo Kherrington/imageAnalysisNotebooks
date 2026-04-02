@@ -32,9 +32,9 @@ Activate this environment with:
 ```
 Make sure to change directory to go into the active environment with
 
----
+```
 cd jupyter_napari
----
+```
 
 Now you can install the needed packages into the virtual environment:
 ```
